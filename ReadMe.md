@@ -1,4 +1,4 @@
-## Boggle
+# Boggle
 
 this is boggle. 
 
